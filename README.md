@@ -1,8 +1,6 @@
-Sure! Here's an example README file for your Express.js project with the specified APIs:
 
-# Express.js API Documentation
+# Furation_Tech_Solution_ASSESSMENTS
 
-This API documentation provides information about the endpoints available in the Express.js project.
 
 ## Base URL
 
